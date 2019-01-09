@@ -11,7 +11,7 @@ $(document).ready
 		var trials2000ms = $.cookie('emotion2000');
 		console.log(trials2000ms);
 
-		$('#mailto').append('<a href="mailto:cb2610@nyu.edu?subject=Expresssions%20of%20Emotion&body='+ demographics +","+ gender+"," + trials200ms + trials2000ms +'">Mail it!</a>');
+		$('#mailto').append('<a href="mailto:xxx@xxx.xxx?subject=Expresssions%20of%20Emotion&body='+ demographics +","+ gender+"," + trials200ms + trials2000ms +'">Mail it!</a>');
 	}
 
 );
