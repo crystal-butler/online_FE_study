@@ -1,0 +1,26 @@
+
+<!doctype html>
+<html>
+	<head>
+		<title></title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script src="jquery.cookie.js"></script>
+		<script>
+
+			$(document).ready(function(){
+				console.log('ready');
+				
+				<!-- this is the part to use to set the cookies -->
+				$.cookie('the_cookie', 'the_value');
+
+				var fastImages = ["img1","awesome", "img2", "sadness"];
+
+				$.cookie('fastImages', fastImages.toString());
+
+			});
+			
+		</script>
+	</head>
+	<body>
+	</body>
+</html>

@@ -1,0 +1,26 @@
+[
+	{
+		"url" : "images/prod1.jpeg",
+		"title" : "First Image"
+	},
+	{
+		"url" : "images/prod2.jpeg",
+		"title" : "Second Image"
+	},
+	{
+		"url" : "images/prod3.jpeg",
+		"title" : "Third"
+	},
+	{
+		"url" : "images/prod4.jpeg",
+		"title" : "Fourth"
+	},
+	{
+		"url" : "images/prod5.jpeg",
+		"title" : "Fifth"
+	},
+	{
+		"url" : "images/prod6.jpeg",
+		"title" : "Sixth"
+	}
+]
